@@ -1,4 +1,4 @@
-# Laravel ToDo App
+# Laravel LiveChat App
 
 This is a Live Chat app with multiple user support.
 
