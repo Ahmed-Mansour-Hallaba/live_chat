@@ -1,8 +1,8 @@
 # Laravel ToDo App
 
-This is a simple ToDo app with multiple user support.
+This is a Live Chat app with multiple user support.
 
-This is built on Laravel Framework 5.1. This was built for demonstrate purpose.
+This is built on Laravel Framework 8.0. This was built for demonstrate purpose.
 
 ## Installation
 
